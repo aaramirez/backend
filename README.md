@@ -32,3 +32,4 @@ Este repositorio solo tiene el sitio generado. El curso está en preparación: l
 | 22 | Resiliencia y escala |
 | 23 | API Gateway, BFF, service mesh y la evolución de las APIs |
 | 24 | Pruebas del backend |
+| 25 | Prompts para generar un backend de producción |
